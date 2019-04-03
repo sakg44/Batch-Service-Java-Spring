@@ -1,0 +1,4 @@
+#Alcatel,150,100
+#BlackBery,140,100
+#Samsung J1, 9000,800
+Lenovo,500,400
